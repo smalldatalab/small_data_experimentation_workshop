@@ -127,6 +127,10 @@ border-bottom: 1px solid #F1F1F1;
 margin-top: 30px;
 }
 
+div#submission_instructions {
+margin-bottom: 100px;
+}
+
 div#content h2 {
 font-family: "Lucida Grande", Tahoma, Arial, Helvetica, sans-serif;
 font-size: 11px;
